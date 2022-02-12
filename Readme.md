@@ -1,3 +1,3 @@
- # Deployed Linkgit status
+ # Deployed Link
  
  https://aizhamalka.github.io/
